@@ -5,6 +5,7 @@ gra
 Język programowania – C# 
 
 PROJEKT - GRA 
+
 Moja gra będzie polegać na: 
 - locie samolotem i omijaniu napotkanych przeszkód 
 - w  miarę upływu czasu prędkość samolotu będzie się zwiększać 
